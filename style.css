@@ -117,7 +117,6 @@ main, .top, .hero, footer {
     font-weight: bold;
 }
 
-/* 순위 배지 (왼쪽 위) */
 .rank {
     position: absolute;
     top: 12px;
